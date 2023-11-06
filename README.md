@@ -15,7 +15,7 @@ Transgender individuals face a significant amount of discrimination and misinfor
 
 ## Contributing
 
-We welcome contributions from anyone interested in combating transphobia. If you want to contribute to the project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from anyone interested in combating transphobia. If you want to contribute to the project, please open an issue or pull request stating the changes you want to request/make.
 
 ## License
 
