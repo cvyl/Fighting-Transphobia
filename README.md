@@ -1,5 +1,5 @@
 # Fighting Transphobia ✊🏳️‍⚧️
-## Visit the Website [here](https://lgbt.sh/Fighting-Transphobia/)!
+## Visit the Website [here](https://cvyl.me/Fighting-Transphobia/)!
 Welcome to the "fighting-transphobia" repository! This is a website aimed at countering transphobia by presenting information and debunking false claims related to transgender issues.
 
 ## About the Project
@@ -26,7 +26,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact
 
-For any questions or suggestions, please contact dev@lgbt.sh.
+For any questions or suggestions, please contact cvyl@pm.me.
 
 ## Acknowledgments
 
